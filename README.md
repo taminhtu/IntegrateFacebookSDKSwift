@@ -23,7 +23,6 @@ You can watch the video to do here:
 
 
 You can also follow me for more tutorials, products, and services here:
-'''
 Visit my site:
 Website: https://davidta.com
 Email: support@davidta.com
@@ -36,4 +35,3 @@ Twitter: https://www.twitter.com/followdavidta
 Instagram:http://www.instagram/followdavidta
 Blog: https://followdavidta.wordpress.com
 Pinterest:https://pinterest.com/followdavidta
-'''
